@@ -1,5 +1,31 @@
 # Latte: Use-case and Assistive-Service Driven Automated Accessibility Testing Framework in Android
 
+## Source Code
+
+The source code of Latte can be found [here](https://drive.google.com/file/d/1_SAfUIVaEYfgSn_fx_jKjYYLQXwv_S2f/view?usp=sharing). It consists of several directories:
+
+- Apps: APK files of apps under experiment
+- Tests: The original test cases written for Appium testing framework
+- UseCaseGenerator: The code corresponding to generating use cases from test scripts
+- UseCases: The generated use cases 
+- UseCaseExecutor: The code correspnding to executing use cases with an accessibility service.
+
+## Approach
+
+<img src="Approach.png" alt="An overview of Latte's approach" class="inline"/>
+
+
+## Use-Case Executor
+
+### Test Case (without any accessibility services)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upTNw4MPdtY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Use Case with TalkBack
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h3Wotx_St5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Accessibility Failure Examples
 
 ### Dynamic Layout
