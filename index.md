@@ -1,8 +1,8 @@
-# Latte: Use-case and Assistive-Service Driven Automated Accessibility Testing Framework in Android
+Submitted to CHI 2021
 
 ## Source Code
 
-The source code of Latte can be found [here](https://drive.google.com/file/d/1_SAfUIVaEYfgSn_fx_jKjYYLQXwv_S2f/view?usp=sharing). It consists of several directories:
+Latte's source code and other supplementary materials can be found [here](https://drive.google.com/file/d/1_SAfUIVaEYfgSn_fx_jKjYYLQXwv_S2f/view?usp=sharing). It consists of several directories:
 
 - Apps: APK files of apps under experiment
 - Tests: The original test cases written for Appium testing framework
