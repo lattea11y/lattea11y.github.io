@@ -19,9 +19,13 @@ Latte's source code and other supplementary materials can be found [here](https:
 
 ### Test Case (without any accessibility services)
 
+This is the original test case in Walmart app representing signing in use case.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/upTNw4MPdtY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Use Case with TalkBack
+
+This is the signing in use case execute by Latte using TalkBack.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h3Wotx_St5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
