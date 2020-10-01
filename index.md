@@ -46,8 +46,7 @@ This is the signing in use case execute by Latte using TalkBack.
 
 #### Calorie Counter
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-P1GrMxmwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LizH5yvNEcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Non-Standard Implementation
 
