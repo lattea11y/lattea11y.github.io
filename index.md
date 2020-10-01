@@ -64,8 +64,7 @@ This is the signing in use case execute by Latte using TalkBack.
 
 #### School Planner
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lV9in_-bjo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CaaxfQv_Fho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Far-off Widgets
 
 #### TripIt
