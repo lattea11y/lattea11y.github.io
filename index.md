@@ -27,8 +27,7 @@ This is the original test case in Walmart app representing signing in use case.
 
 This is the signing in use case execute by Latte using TalkBack.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h3Wotx_St5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1sGcqTrDqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Accessibility Failure Examples
 
@@ -36,7 +35,7 @@ This is the signing in use case execute by Latte using TalkBack.
 
 ### TripIt
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fXU__XmTV4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BgKsD1d1zk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Navigation Loop
