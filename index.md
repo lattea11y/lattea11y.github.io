@@ -1,14 +1,12 @@
-Submitted to CHI 2021
+Accepted in CHI 2021. Authors: Navid Salehnamadi, Abdulaziz Alshayban, Jun-Wei Lin, Iftekhar Ahmed, Stacy Branham, and Sam Malek
 
 ## Source Code
 
-Latte's source code and other supplementary materials can be found [here](https://drive.google.com/file/d/1_SAfUIVaEYfgSn_fx_jKjYYLQXwv_S2f/view?usp=sharing). It consists of several directories:
+Please visit the [github repo](https://github.com/seal-hub/Latte).
 
-- Apps: APK files of apps under experiment
-- Tests: The original test cases written for Appium testing framework
-- UseCaseGenerator: The code corresponding to generating use cases from test scripts
-- UseCases: The generated use cases 
-- UseCaseExecutor: The code correspnding to executing use cases with an accessibility service.
+## Teaser
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vyvZzy1jsEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Approach
 
